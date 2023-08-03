@@ -1,0 +1,31 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "name": "SMMPrice: Статусы заказов",
+  "version": "1.3",
+  "description": "Показывает информацию о заказах с сайта smmprice.ru (статус их выполнения, номера заказов, время обновления).",
+  "background": {
+    "scripts": [
+      "js/backend.bundle.js"
+    ]
+  },
+  "manifest_version": 2,
+  "icons": {
+    "16": "img/128.png",
+    "48": "img/128.png",
+    "128": "img/128.png"
+  },
+  "browser_action": {
+    "default_title": "SMMPrice: Статусы заказов",
+    "default_icon": "img/128.png",
+    "icons": {
+      "16": "img/128.png",
+      "48": "img/128.png",
+      "128": "img/128.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "http://smmprice.ru/",
+    "https://smmprice.ru/"
+  ]
+}
