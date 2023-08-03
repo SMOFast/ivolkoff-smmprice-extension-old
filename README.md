@@ -1,6 +1,6 @@
-# Расширение для браузера (старое) от ivolkoff для SMOFast.
+# Расширение для браузера (старое) от ivolkoff для SmmPrice.
 
-**Расширение для браузера под SMOFast** - это расширение для браузера, разработанное с использованием фреймворка Vue 2.0. Это README поможет вам начать работу над проектом.
+**Расширение для браузера под SmmPrice** - это расширение для браузера, разработанное с использованием фреймворка Vue 2.0. Это README поможет вам начать работу над проектом.
 
 ## Требования
 
@@ -29,9 +29,9 @@ npm run dev
 
 ## English Version (for non-Russian speaking contributors)
 
-# Browser extension (old) by ivolkoff for SMOFast
+# Browser extension (old) by ivolkoff for SmmPrice
 
-**Browser extension for SMOFast** is a browser extension developed using the Vue 2.0 framework. This README will help you get started with the project.
+**Browser extension for SmmPrice** is a browser extension developed using the Vue 2.0 framework. This README will help you get started with the project.
 
 ## Requirements
 
